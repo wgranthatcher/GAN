@@ -1,4 +1,4 @@
-# Vanilla GAN in Keras
+# CLONE: Vanilla GAN in Keras
 
 
 Reproduction: 
